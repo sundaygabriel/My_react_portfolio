@@ -2,15 +2,10 @@ import React, { Component } from "react";
 export default class About extends Component {
   render() {
     let resumeData = this.props.resumeData;
-    return (
-      <section id="about">
+    return <section id="about">
         <div className="row">
           <div className="three columns">
-            <img
-              className="profile-pic"
-              src="https://lh3.googleusercontent.com/a-/AFdZucoNkSiSaUM5tPoIZOcoYX_vciW-cFntwo_M2xnDxQ=s288-p-rw-no"
-              alt=""
-            />
+            <img className="profile-pic" src="https://avatars.githubusercontent.com/u/52958443?s=400&u=c02ad9d93ebd44210f7b47e36766a372d0941d55&v=4" height="200" width="400" alt="" />
           </div>
 
           <div className="nine columns main-col">
@@ -33,7 +28,6 @@ export default class About extends Component {
             </div>
           </div>
         </div>
-      </section>
-    );
+      </section>;
   }
 }

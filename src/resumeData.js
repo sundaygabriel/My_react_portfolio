@@ -1,81 +1,81 @@
 let resumeData = {
   imagebaseurl: "https://rbhatia46.github.io/",
-  name: "Jeremiah Alao",
-  role: "Pwc Tech BootCamp Trainee ",
-  linkedinId: "jerrylawn",
-  Facebookid: "Jeremiah Oluwagbemi",
-  Email: "Alaojeremiah@gmail.com",
+  name: "Gabriel Sunday",
+  role: "Technical Product Manager ",
+  linkedinId: "SUNDAY GABRIEL",
+  Facebookid: "Ghabrel Zoe Nius",
+  Email: "sgabrielzoe@gmail.com",
 
   socialLinks: [
     {
       name: "linkedin",
-      url: "https://www.linkedin.com/in/alao-j-b28b9367/",
+      url: "https://www.linkedin.com/sunday-gabriel",
       className: "fa fa-linkedin",
     },
     {
       name: "github",
-      url: "http://github.com/jerrylawn",
+      url: "http://github.com/sundaygabriel",
       className: "fa fa-github",
     },
 
     {
       name: "Whatapp",
-      url: "+2349036368054",
+      url: "+2349032065137",
       className: "fa fa-whatsapp",
     },
     {
       name: "Facebook",
-      url: "https://wwww.facebook.com/alaojerryboy",
+      url: "https://wwww.facebook.com/GhabrelZoeNius",
       className: "fa fa-facebook",
     },
     {
       name: "Gmail",
-      url: "alaojeremiah@gmail.com",
+      url: "sgabrielzoe@gmail.com",
       className: "fa fa-gmail",
     },
   ],
   aboutme:
-    "I am a tenacious, teachable, and responsible individual, able to adapt and thrive in a fast paced and dynamic environment. I am seeking a position in an innovative, ethical, and stable organization with clear opportunity for learning and career advancement. I am always eager to learn, share my knowledge and, a great team player with experience in system administrator, Software developer and Cybersecurity",
-  address: "No 11, Adisa Coker Street Obawole , Ifako, Lagos, State",
-  Tell: "+2349036368054",
-  email: "Alaojeremiah@gmail.com",
+    "Innovative, enthusiastic and passionate product manager with current role as a technical product manager managing a financial app developed during 2021 mono-I4G-Hackfest ",
+
+  Tell: "+2349032065137",
+  email: "sgabrielzoe@gmail.com",
   education: [
     {
-      UniversityName: "Federal University of Technology Minna",
-      specialization: "Automobile Technology",
-      MonthOfPassing: "Nov",
-      YearOfPassing: "2019",
-      Degree: "B,Tech",
+      UniversityName: "University of Agriculture Abeokuta",
+      specialization: "Food Science and Technology",
+      MonthOfPassing: "Feb",
+      YearOfPassing: "",
+      Degree: "B,Sci",
     },
   ],
   work: [
     {
-      CompanyName: "Laralek Ultimate Limited",
-      specialization: "IT Officer",
-      MonthOfLeaving: "Oct",
-      YearOfLeaving: "2021",
+      CompanyName: "Prudent",
+      specialization: "Technical Product Manager",
+      MonthOfLeaving: "Ongoing",
+      YearOfLeaving: "Ongoing",
     },
     {
-      CompanyName: "Pwc Tech Bootcamp ",
-      specialization: "Full Stack Software Developer",
-      MonthOfLeaving: "july",
-      YearOfLeaving: "2022",
+      CompanyName: "NewHorizons Systems Solutions Limited ",
+      specialization: "Tech Support",
+      MonthOfLeaving: "Aug",
+      YearOfLeaving: "2021",
     },
   ],
-  skillsDescription: "Cybersecurity, Software Developer",
+  skillsDescription: "Product Management, Software Developer, Technical Writer",
   skills: [
    
     {
-      skillname: "HTML5",
+      skillname: "Product Mangement",
     },
     {
-      skillname: "CSS",
+      skillname: "Azure",
     },
     {
-      skillname: "JAVASCRIPT",
+      skillname: "Salesforce",
     },
     {
-      skillname: "REACTJS",
+      skillname: "DevOps",
     },
   ],
 };

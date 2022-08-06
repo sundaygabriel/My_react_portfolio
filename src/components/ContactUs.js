@@ -8,8 +8,7 @@ export default class ContactUs extends Component {
           <div className="ten columns">
             <p className="lead">
               <span style={{color : "red"}}>
-                Its a Great privillage for me to be amoung the Pwc Tech BootCamp
-                Trainee Particpant
+                Technical Product Manager | Software Developer-in-training 
               </span>
             </p>
           </div>
